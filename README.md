@@ -1,2 +1,2 @@
-# -RenameFiles-TVshows-embyform
+# RenameFiles-TVshows-embyform
 做了个脚本用来批量重命名网上下载的不符合命名规范的剧集，使得EMBY等服务器能正确识别并刮削元数据
