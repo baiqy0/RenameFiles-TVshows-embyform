@@ -4,7 +4,9 @@
 使用方法
 下载压缩包，在你喜欢的地方解压；
 打开dist/RenameFiles/文件夹中的exe程序；
+
 ![image](https://github.com/baiqy0/RenameFiles-TVshows-embyform/assets/88624207/793ee05e-f16e-42d4-a8b2-77d9784215f3)
+
 选择你要批量重命名的文件夹（其中应包含一系列剧集的视频文件，并能直接按照名称顺序排列为剧集顺序）
 编辑剧名（例如：走向共和）
 编辑集数格式（例如: -S01E）
