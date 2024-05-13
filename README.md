@@ -1,18 +1,16 @@
 # RenameFiles-TVshows-embyform
 做了个脚本用来批量重命名网上下载的不符合命名规范的剧集，使得EMBY等服务器能正确识别并刮削元数据
 
+***
 
-
-使用方法
+## 使用方法
 
 下载压缩包，在你喜欢的地方解压；
 
 打开dist/RenameFiles/文件夹中的exe程序；
 
 
-
 ![image](https://github.com/baiqy0/RenameFiles-TVshows-embyform/assets/88624207/793ee05e-f16e-42d4-a8b2-77d9784215f3)
-
 
 
 选择你要批量重命名的文件夹
@@ -36,9 +34,9 @@
 
 (例如：文件夹中是mp4视频文件就填mp4，文件夹中是mkv视频文件就填mkv)
 
+***
 
-
-最终会重命名为如下形式
+## 最终会重命名为如下形式
 
 走向共和 -S01E01.mp4
 
