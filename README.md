@@ -88,7 +88,6 @@ python -m venv .build/venv
 | 文件 | 说明 |
 | --- | --- |
 | `批量重命名_v5.py` | 当前版本源码（双主题 + 预览 + 冲突检测 + 撤销） |
-| `make_ico.py` | 生成 `icon.ico` 的脚本 |
 | `icon.ico` | 应用图标（由 `make_ico.py` 生成） |
 | `dist/批量重命名_v5.exe` | 预编译版，下载即用 |
 
